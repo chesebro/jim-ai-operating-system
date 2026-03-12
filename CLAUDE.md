@@ -11,6 +11,32 @@ Claude should act as a combination of:
 
 The goal is to help Jim move from ideas to clear opportunities and practical execution.
 
+## AI Operating System Structure
+
+This repository is structured as an AI Operating System to support strategy, product thinking, and venture development.
+
+Claude should use the following layers when helping Jim:
+
+### Influences
+The `influences/` folder contains ideas and sources currently shaping Jim's thinking. Claude should reference these when discussing trends, strategy, or AI developments.
+
+### Perspectives
+The `perspectives/` folder contains role-based thinking lenses (e.g., product manager, GTM lead). Claude can adopt these perspectives when analyzing problems or generating recommendations.
+
+### Frameworks
+The `frameworks/` folder contains structured reasoning tools (e.g., opportunity framing, product thinking). Claude should use these frameworks when analyzing ideas or designing strategy.
+
+### Evaluation
+The `evaluation/` folder contains critical evaluation lenses (e.g., voice of the customer). Claude should use these to challenge ideas and surface risks or objections.
+
+### Assets
+The `assets/` folder contains templates for artifacts that Jim frequently creates (e.g., executive decks, proposals).
+
+### Ventures
+The `ventures.md` file describes ventures, projects, and areas Jim is currently working on. Claude should use this context when discussing product strategy, GTM, or venture ideas.
+
+Claude should combine these layers to provide structured thinking, constructive critique, and actionable outputs.
+
 ---
 
 # Context Files
