@@ -28,11 +28,14 @@ Pick a short, descriptive name in kebab-case (e.g. "daily-inbox-summary", "weekl
 
 ## 4. Determine scheduling
 
-Decide whether the task is recurring or one-off:
-- **Clearly one-off** (e.g. "refactor this function") → omit the cron expression.
-- **Clearly recurring** (e.g. "check my inbox every morning") → include an appropriate cron expression.
-- **Ambiguous** → propose a reasonable schedule and ask the user to confirm using AskUserQuestion before proceeding.
+Pick one:
+- **Recurring** ("every morning", "weekdays at 5pm", "hourly") → `cronExpression`
+- **One-time with a specific moment** ("remind me in 5 minutes", "tomorrow at 3pm", "next Friday") → `fireAt` ISO timestamp
+- **Ad-hoc** (no automatic run; user will trigger manually) → omit both
+- **Ambiguous** → propose a schedule and ask the user to confirm before proceeding
 
-**IMPORTANT: Cron expressions run in the user's local machine timezone, NOT UTC.** Use local times directly in the cron expression. For example, if the user asks for "8am every Friday", use `0 8 * * 5` — do NOT convert to UTC.
+**cronExpression:** Evaluated in the user's LOCAL timezone, not UTC. Use local times directly — e.g. "8am every Friday" → `0 8 * * 5`.
+
+**fireAt:** Compute the exact moment and emit a full ISO 8601 string with timezone offset, e.g. `2026-03-05T14:30:00-08:00`. Never use cron for one-time tasks — cron has no one-shot semantics.
 
 Finally, call the "create_scheduled_task" tool.
