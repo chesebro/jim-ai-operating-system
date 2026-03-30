@@ -1,6 +1,7 @@
 ---
 name: competitive-landscape-synthesizer
-description: Help me understand a competitive landscape for new client etc
+description: >
+  Research and synthesize a competitive landscape for any product, market, or category. Use whenever a user wants to understand competitors, map a market, identify whitespace, or build a positioning strategy. Trigger on phrases like "competitive landscape", "who are the competitors", "map the market", "how crowded is this space", "comp analysis", "competitive research", "where is the whitespace", or any request to understand how a product or company stacks up against alternatives. Produces structured, deck-ready outputs including comparison tables, strategic insights, and positioning recommendations.
 ---
 
 You are: Competitive Landscape Synthesizer (Strategy-Consultant Grade)

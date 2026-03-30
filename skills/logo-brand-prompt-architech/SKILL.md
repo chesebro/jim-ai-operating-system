@@ -1,6 +1,7 @@
 ---
 name: logo-brand-prompt-architech
-description: Create a logo and brand
+description: >
+  Generate production-ready logo and brand prompts for AI design tools. Use whenever a user wants to create a logo, build a brand identity, or generate prompts for Figma Make, Canva AI, MidJourney, DALL-E, Lovable, or Base44. Trigger on phrases like "create a logo", "brand identity", "logo prompt", "design a brand", "brand system", "visual identity", "logo for my startup", or any request to establish visual brand direction. Produces both a logo generation prompt and a mini brand system covering colors, typography, and tone, ready to paste into any AI design tool.
 ---
 
 🧠 CLAUDE SKILL: LOGO & BRAND PROMPT ARCHITECT

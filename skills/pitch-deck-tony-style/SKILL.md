@@ -1,6 +1,7 @@
 ---
 name: pitch-deck-tony-style
-description: create a pitch deck in a style suitable to Tony Wilbert
+description: >
+  Build a visually minimal, investor-grade pitch deck with deep narrative structure, market research, and multi-investor critique built in. Use for any pitch deck creation request, especially when the user wants a research-backed, story-first deck. Trigger on "pitch deck", "investor deck", "fundraising slides", "create my deck", or any request to build slides for an investor meeting or fundraise. Includes market research, core narrative summary, full slide-by-slide output with speaker notes, investor critique from YC, Sequoia, and Benchmark perspectives, and Q&A preparation.
 ---
 
 AI PITCH DECK STUDIO

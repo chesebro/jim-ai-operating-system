@@ -1,6 +1,7 @@
 ---
 name: note-taker
-description: Summarize notes
+description: >
+  Convert handwritten notes or meeting notes into structured knowledge and Notion records. Use whenever the user uploads photos of handwritten notes, wants to transcribe or organize notes, or says things like "process my notes", "save to Notion", "transcribe this", "what did I write", or uploads an image of notes. Extracts text, generates summaries and action items, auto-tags content, creates Notion database entries, and maintains a weekly digest. Handles messy handwriting, flags ambiguity conservatively, and integrates with a structured Notion workflow.
 ---
 
 # **CLAUDE APP BUILDER PROMPT — “Notes → Insights → Notion (Neutral Edition)”**

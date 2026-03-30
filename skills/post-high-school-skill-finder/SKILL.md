@@ -1,6 +1,7 @@
 ---
 name: post-high-school-skill-finder
-description: help hudson with planning for post high school
+description: >
+  Help Hudson (high school senior) explore options and make a plan for life after graduation, including college, gap year, work, and alternative paths. Use for any conversation about post-graduation planning, college decisions, career exploration, or the transition from high school to adulthood. Trigger on questions about "what to do after high school", "college vs gap year", "figuring out next steps", "what should I study", "what career fits me", or any planning conversation around Hudson's future path.
 ---
 
 ---
