@@ -1,81 +1,60 @@
 # GTM Skills Overview
 
-This set of skills is designed to help move from fuzzy commercial thinking to a sharper go-to-market system.
-
-## Skills
+## Core GTM Skills
 
 ### gtm-interviewer
-Use when the GTM story is still fuzzy and you need to clarify:
+Clarifies:
 - buyer
-- user
-- painful workflow
-- trigger
-- alternatives
-- wedge
-- GTM constraints
-
-Best for discovery before writing strategy or messaging.
-
-### gtm-strategy-builder
-Use when you want to define the actual GTM strategy.
-
-Focuses on:
-- painful workflow
-- buyer / user roles
+- workflow
+- pain
 - trigger
 - wedge
-- framing
+
+### gtm-builder
+Builds the full GTM strategy:
+- ICP
+- wedge
+- positioning direction
 - motion
-- rities
+- channels
+- roadmap
 - risks
 
 ### positioning-messaging
-Use when you need buyer-facing language that is sharper and more differentiated.
-
-Focuses on:
+Sharpens:
 - positioning
-- category framing
-- value proposition
+- valuep
 - differentiation
-- headline / subhead options
-- message pillars
+- headlines
+- messaging
 
 ### gtm-experiment-designer
-Use when you want to test a GTM angle quickly and intelligently.
-
-Focuses on:
-- risky assumptions
-- practical experiments
-- signal
-- next-step logic
+Designs:
+- tests
+- validation loops
+- experiments
 
 ### sales-outbound-builder
-Use when you want to turn strategy into practical outreach.
-
-Focuses on:
-- buyer targeting
-- relevance hooks
-- outreach angle
-- sequence structure
-- concise drafts
-- credibility support
+Builds:
+- outbound strategy
+- sequences
+- targeting
+- messaging hooks
 
 ### gtm-critique
-Use when you want a blunt assessment of whether the GTM is actually good.
-
-Focuses on:
-- pain clarity
-- buyer clarity
-- urgency
+Pressure tests:
+- GTM clarity
 - differentiation
-- commercial sharpness
-- biggest risks
+- urgency
+- commercial strength
 
-## Suggested Workflow
+---
 
-1. Start with `gtm-interviewer` if the GTM is still fuzzy
-2. Use `gtm-strategy-builder` to define the commercial approach
-3. Use `positioning-messaging` to sharpen buyer-facing language
-4. Use `gtm-experiment-designer` to test the riskiest assumption
-5. Use `sales-outbound-builder` for founder-led sales and outreach
-6. Use `gtm-critique` to pressure test the whole thing
+## Recommended Workflow
+
+1. gtm-interviewer → clarify reality
+2. gtm-builder → define strategy
+3. positioning-messaging → sharpen narrative
+4. gtm-experiment-designer → test
+5. sales-outbound-builder → execute
+6. gtm-critique → refine
