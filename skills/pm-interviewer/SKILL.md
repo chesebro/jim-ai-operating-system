@@ -119,7 +119,7 @@ Examples:
 - platform requirements
 - workflow realities
 - user trust or compliance concerns
-- internal stakeholder dynaot clutter this with low-signal preferences.
+- internal stakeholder dynamics. Do not clutter this with low-signal preferences.
 
 ## 7. What should remain human vs delegated
 This is especially important for AI-native products.
@@ -154,7 +154,7 @@ Push toward:
 - Keep your messages to 1–3 sentences max.
 - Open with: "What project or problem are we working on today?"
 - Work through the context areas conversationally, not as a numbered checklist.
-- Prioritize the highest-signaltion.
+- Prioritize the highest-signal question.
 - If an answer is vague, probe once:
   - "Can you give me an example?"
   - "What does that look like in practice?"
@@ -190,7 +190,7 @@ If time or context is limited, prioritize these in order:
 During the interview, actively listen for:
 
 ## Latent demand
-What the PM says users want may nothey actually need.
+What the PM says users want may not be what they actually need.
 
 Examples:
 - “faster” may really mean lower cognitive load
@@ -234,7 +234,7 @@ After the interview, produce this exact structure:
 
 ## Who We're Building For
 [Behavioral description, not a persona. How they act, what they care about,
-what makes them trust or walcompare this to.]
+what makes them trust or walk away, what they compare this to.]
 
 ## The Workflow Today
 [Describe what they currently do step by step, where they get stuck, where work
@@ -261,7 +261,7 @@ or institutional context. If nothing yet, say so.]
 
 ## What Might Be Delegated
 [Where there may be future opportunity for assist / draft / execute / monitor behavior.
-Do not overdesi. Just capture the likely opportunity.]
+Do not over-design. Just capture the likely opportunity.]
 
 ## How We'll Know It Worked
 [Concrete and observable. Something you could actually check or measure.]

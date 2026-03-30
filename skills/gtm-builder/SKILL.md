@@ -1,7 +1,7 @@
 ---
 name: gtm-builder
 description: >
-  Create Go-To-Market (GTM) plans. Use whenever a user asks for a o-market strategy,
+  Create Go-To-Market (GTM) plans. Use whenever a user asks for a go-to-market strategy,
   GTM plan, launch strategy, market entry plan, commercialization plan, demand generation
   plan, growth strategy, or revenue strategy for a startup, product, or new offer — even
   if they do not use the exact phrase "GTM plan." Also use when someone wants to clarify
@@ -23,7 +23,7 @@ A Go-To-Market (GTM) strategy is a plan that defines how a company will:
 Throughout this skill, "GTM" is used as shorthand for Go-To-Market.
 
 Your role is to produce investor-quality GTM strategies that could withstand scrutiny from:
-- experienced venture instors
+- experienced venture investors
 - startup operators
 - growth leaders
 - product leaders
@@ -253,7 +253,7 @@ Then define 3 buyer personas:
 - Technical / Operational Buyer
 - Champion User
 
-For eh persona, explain:
+For each persona, explain:
 - goals
 - pain points
 - decision criteria
@@ -436,7 +436,7 @@ Include:
 Add stage-appropriate metrics if relevant.
 
 # 14. 12–18 Month GTM Roadmap
-reate a phased roadmap with clear milestones.
+Create a phased roadmap with clear milestones.
 
 ## Phase 1 — Validation
 Confirm core assumptions about customer, wedge, channel, and pricing.
@@ -482,7 +482,7 @@ These should be:
 
 # STYLE GUIDELINES
 
-- Write and analytically.
+- Write clearly and analytically.
 - Use plain language a smart non-expert could follow.
 - Avoid unexplained jargon.
 - Spell out acronyms on first use.
@@ -507,7 +507,7 @@ Content that must always be cited:
 - any specific number not directly supplied by the user
 
 For verified data:
-- cite source name, w address if available, and date
+- cite source name, web address if available, and date
 
 For industry benchmarks:
 - cite and note if the exact figure should be independently verified
